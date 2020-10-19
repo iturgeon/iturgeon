@@ -1,10 +1,10 @@
 ## [![ian turgeons header](https://github.com/iturgeon/iturgeon/raw/main/assets/berchtesgaden.jpg)](https://ianturgeon.com)
 
 <p align='center'>
-<a href="https://twitter.com/iturgeon"><img height="30" src="https://raw.githubusercontent.com/iturgeon/iturgeon/main/assets/twitter.svg"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/iturgeon"><img height="30" src="https://raw.githubusercontent.com/iturgeon/iturgeon/main/assets/instagram.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/iturgeon/"><img height="30" src="https://raw.githubusercontent.com/iturgeon/iturgeon/main/assets/linkedin.svg"></a>
-<a href="https://techrangers.cdl.ucf.edu/"><img height="30" src="https://raw.githubusercontent.com/iturgeon/iturgeon/main/assets/techrangers.svg"></a>
+<a href="https://twitter.com/iturgeon"><img alt="Twitter Profile" height="30" src="https://raw.githubusercontent.com/iturgeon/iturgeon/main/assets/twitter.svg"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/iturgeon"><img alt="Instagram profile" height="30" src="https://raw.githubusercontent.com/iturgeon/iturgeon/main/assets/instagram.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/iturgeon/"><img alt="Ian Turgeon's LinkedIn Profile" height="30" src="https://raw.githubusercontent.com/iturgeon/iturgeon/main/assets/linkedin.svg"></a>
+<a href="https://techrangers.cdl.ucf.edu/"><img alt="UCF Techrangers" height="30" src="https://raw.githubusercontent.com/iturgeon/iturgeon/main/assets/techrangers.svg"></a>
 </p>
 
 ## Background
