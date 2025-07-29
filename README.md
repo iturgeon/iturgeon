@@ -2,7 +2,7 @@
 
 <p align='center'>
 <a href="https://techrangers.cdl.ucf.edu/"><img alt="UCF Techrangers" height="30" src="https://raw.githubusercontent.com/iturgeon/iturgeon/main/assets/techrangers.svg"></a>
-<a href="https://konigsegg.com/"><img alt="Koenigsegg Infotainment & Cloud" height="30" src="https://raw.githubusercontent.com/iturgeon/iturgeon/main/assets/koenigsegg.svg"></a>
+<a href="https://www.koenigsegg.com/"><img alt="Koenigsegg Infotainment & Cloud" height="30" src="https://raw.githubusercontent.com/iturgeon/iturgeon/main/assets/koenigsegg.svg"></a>
 <a href="https://www.linkedin.com/in/iturgeon/"><img alt="Ian Turgeon's LinkedIn Profile" height="30" src="https://raw.githubusercontent.com/iturgeon/iturgeon/main/assets/linkedin.svg"></a>
 </p>
 
